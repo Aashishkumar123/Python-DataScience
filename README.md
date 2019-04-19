@@ -1,2 +1,1 @@
-# Python-DataScience
-Hey Everyone, Aashish here, 
+# Python-DataScience 
